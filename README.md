@@ -65,6 +65,8 @@ The [pop-up](https://ej2.syncfusion.com/angular/documentation/toolbar/responsive
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/toolbar/default?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples)
 
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/toolbar?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples)
+
 ## About Syncfusion Angular UI Components
 
 Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Toolbar, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples), [Charts](https://www.syncfusion.com/angular-ui-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-toolbar-github-samples).
